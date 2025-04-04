@@ -53,12 +53,10 @@ Since the dataset is unlabeled, there is no quantitative result. The qualitative
   <div >
     <p>DEIM</p>
     <img src="figures/DEIM_S.jpg" width="30%">
-  </div>
-  <div >
+  </div><div >
     <p>RT-DETR</p>
     <img src="figures/RTDETR_S.jpg" width="30%">
-  </div>
-  <div >
+  </div><div >
     <p>YOLOv8</p>
     <img src="figures/YOLO.jpg" width="30%">
   </div>
