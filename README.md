@@ -50,17 +50,17 @@ Since the dataset is unlabeled, there is no quantitative result. The qualitative
 
 
 <div style="display: flex; justify-content: center; text-align: center;">
-  <div style="margin: 10px;">
+  <div >
     <p>DEIM</p>
-    <img src="figures/DEIM_S.jpg" width="200">
+    <img src="figures/DEIM_S.jpg" >
   </div>
-  <div style="margin: 10px;">
+  <div >
     <p>RT-DETR</p>
-    <img src="figures/RTDETR_S.jpg" width="200">
+    <img src="figures/RTDETR_S.jpg" >
   </div>
-  <div style="margin: 10px;">
+  <div >
     <p>YOLOv8</p>
-    <img src="figures/YOLO.jpg" width="200">
+    <img src="figures/YOLO.jpg" >
   </div>
 </div>
 
