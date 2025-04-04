@@ -1,7 +1,7 @@
 # Intelligent Mobile Robot Endterm Report
 *ZhijiangTang @ HAIS, UCAS, 5/4/2025*
 
-This is the code for the Intelligent Mobile Robot course endterm report. The detailed report is in [Report](<Endterm Report.pdf>).
+This is the code for the Intelligent Mobile Robot course endterm report. The detailed report is in [Report](<Endterm Report.pdf>). [Demo detection](https://www.bilibili.com/video/BV1SeRSYNE5r/?vd_source=7b277a0900e92e08e7d89f8f98d1607f) and [Demo real time](https://www.bilibili.com/video/BV1SeRSYNEgn/?vd_source=7b277a0900e92e08e7d89f8f98d1607f).
 ![alt text](figures/demo_detection.gif)
 
 
@@ -46,7 +46,7 @@ python3 run_inference.py
 python3 run_video.py
 ```
 #### Results
-Since the dataset is unlabeled, there is no quantitative result. The qualitative results can be seen in the [demo detection](figures/demo_detection.mp4) and [demo real time](figures/demo_realtime.mp4).
+Since the dataset is unlabeled, there is no quantitative result. The qualitative results can be seen in the [demo detection](https://www.bilibili.com/video/BV1SeRSYNE5r/?vd_source=7b277a0900e92e08e7d89f8f98d1607f) and [demo real time](https://www.bilibili.com/video/BV1SeRSYNEgn/?vd_source=7b277a0900e92e08e7d89f8f98d1607f).
 
 
 <div align="center">
