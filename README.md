@@ -55,15 +55,15 @@ Since the dataset is unlabeled, there is no quantitative result. The qualitative
   <tr>
     <td align="center">
       <strong>DEIM</strong><br>
-      <img src="figures/DEIM_S.jpg" width="33%">
+      <img src="figures/DEIM_S.jpg" width="100%">
     </td>
     <td align="center">
       <strong>RT-DETR</strong><br>
-      <img src="figures/RTDETR_S.jpg" width="33%">
+      <img src="figures/RTDETR_S.jpg" width="100%">
     </td>
     <td align="center">
       <strong>YOLOv8</strong><br>
-      <img src="figures/YOLO.jpg" width="33%">
+      <img src="figures/YOLO.jpg" width="100%">
     </td>
   </tr>
 </table>
