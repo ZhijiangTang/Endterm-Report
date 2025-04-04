@@ -3,3 +3,5 @@ data/*
 checkpoints/*
 !checkpoints/.gitkeep
 *.pyc
+figures/demo_detection.mp4
+figures/demo_realtime.mp4
