@@ -49,22 +49,26 @@ python3 run_video.py
 Since the dataset is unlabeled, there is no quantitative result. The qualitative results can be seen in the [demo detection](figures/demo_detection.mp4) and [demo real time](figures/demo_realtime.mp4).
 
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
       <strong>DEIM</strong><br>
-      <img src="figures/DEIM_S.jpg" width="200">
+      <img src="figures/DEIM_S.jpg" width="33%">
     </td>
     <td align="center">
       <strong>RT-DETR</strong><br>
-      <img src="figures/RTDETR_S.jpg" width="200">
+      <img src="figures/RTDETR_S.jpg" width="33%">
     </td>
     <td align="center">
       <strong>YOLOv8</strong><br>
-      <img src="figures/YOLO.jpg" width="200">
+      <img src="figures/YOLO.jpg" width="33%">
     </td>
   </tr>
 </table>
+
+</div>
 
 
 
